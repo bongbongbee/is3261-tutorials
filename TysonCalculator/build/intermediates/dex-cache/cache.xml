@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tysonquek/Development/androidstudio-workspace/TysonCalculator/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6c6b497aa9e3aadbaabf975379e7914fa9e65523">
+        <dex dex="/Users/tysonquek/Development/androidstudio-workspace/TysonCalculator/app/build/intermediates/pre-dexed/debug/classes-42dc526d263c40f60d756ea3f0bc5165755a0980.jar" />
+    </item>
+
+</items>
